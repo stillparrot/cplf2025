@@ -1,0 +1,285 @@
+/* === GLOBAL === */
+/* ===================== Reset global ===================== */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;            /* para que 100vh funcione correctamente */
+  overflow-x: hidden;      /* evita barras horizontales extra */
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth;
+}
+.text-cplf {
+    color: #002147; /* azul institucional más sobrio */
+}
+.bg-alt {
+    background-color: #f8f9fa;
+}
+.justificado{text-align: justify;}
+
+
+/* === NAVBAR === */
+:root {
+  --navbar-height: 120px;
+}
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.custom-navbar {
+  position: fixed;
+  height: var(--navbar-height);
+  background-color: #168aad;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1.5px solid #117796; /* línea visual, sutil */
+}
+@media (max-width: 768px) {
+    .navbar-brand img {
+    height: 60px; /* más chico en celular */
+    }
+    /*.navbar-brand span {
+    display: none;  oculta el texto CPLF 2025 en pantallas pequeñas 
+    }*/
+}
+
+/* === BUTTONS === */
+.btn-translucido {
+    background-color: rgba(241, 249, 246, 0.3); /* azul oscuro con opacidad */
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(4px); /* efecto cristalino */
+    padding: 10px 24px;
+    border-radius: 0.375rem;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+.btn-translucido:hover {
+    background-color: rgba(241,249,246, 0.6); /* más sólido al pasar el mouse */
+    border-color: rgba(255, 255, 255, 0.6);
+}
+.btn-cplf-palestras {
+    background-color: #003366;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 0.375rem;
+    font-weight: 500;
+    border: none;
+    transition: all 0.2s ease;
+}
+.btn-cplf-palestras:hover {
+    background-color: #00264d;
+    transform: translateY(-2px);
+}
+
+
+/* ===================== HERO ===================== */
+.hero {
+  position: relative;
+  /* Cambiamos de 120vh/150vh a 100vh para que ocupe SOLO la altura de la ventana */
+  height: calc(100vh - var(--navbar-height));
+  overflow: hidden;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/* Parte interior “sticky” con la imagen de fondo */
+.hero-inner {
+  top: 0;
+  height: 100vh;   /* siempre cubre toda la ventana, desde y hasta el top */
+  display: flex;
+  align-items: center;
+  padding-bottom: min(15vh, 120px); /* sube el texto en pantallas grandes, pero no exagera en móviles */
+  justify-content: center;
+  background: url('images/CPLF_gente1.jpg') center/cover no-repeat;
+  /* Si quieres parallax con JS, manten el background-position dinámico en JS */
+  background-position: center 0;  /* valor inicial */
+}
+
+/* Oscurecer la capa por encima del fondo */
+.hero .overlay {
+  position: absolute;
+  inset: 0;               /* equivale a top:0; right:0; bottom:0; left:0; */
+  background-color: rgba(29, 28, 38, 0.5);
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* El contenido (texto/SVG) encima de la overlay */
+.hero .conteudo {
+  position: relative;
+  z-index: 2;
+}
+
+.date-underline {
+  display: block;               /* fica numa linha só, mas só do tamanho do conteúdo */
+  width: max-content;           /* ajusta exatamente ao texto */
+  margin: 0.5rem auto 1rem;     /* centraliza horizontalmente e dá espaçamento */
+  padding-bottom: 0.05rem;
+  border-bottom: 2px solid #fff;
+  font-size: clamp(1.5rem, 4vw, 2.3rem);
+  font-weight: bold;
+  white-space: nowrap;          /* impede quebra interna */
+}
+
+/* ===================== TIPOGRAFÍA / SVG ===================== */
+.titulo-svg.desktop,
+.titulo-svg.mobile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  height: auto;
+  fill: #fff;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
+/* Por defecto: ocultar móvil */
+.titulo-svg.mobile {
+  display: none;
+}
+
+/* En móvil: mostrar móvil, ocultar desktop */
+@media (max-width: 768px) {
+  .titulo-svg.desktop {
+    display: none;
+  }
+  .titulo-svg.mobile {
+    display: block;
+  }
+}
+
+
+.hero-text {
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+.hero-subtitle {
+  font-size: clamp(1.5rem, 4vw, 2.3rem);
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  margin-bottom: 0.3rem;
+}
+
+.highlighted-line {
+  background-color: rgba(241, 249, 246, 0.3);
+  backdrop-filter: blur(3px);
+  padding: 6px 12px;
+  border-radius: 2px;
+  display: inline-block;
+  color: #ffffff;
+  font-size: 1.2rem;
+}
+
+
+
+
+
+
+/* === SECTIONS === */
+section {
+    padding: 80px 0;
+    scroll-margin-top: 120px; /* ajustá este valor según la altura real de tu navbar */
+}
+#evento h2 {
+    font-size: 2rem;
+}
+@media (min-width: 992px) {
+    #evento h2 {
+    font-size: 2.5rem;
+    }
+}
+
+
+/* Sponsors */
+.logo-sponsor{max-height:160px;}
+#organizacao .col-md-3,
+#organizacao .col-6{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+/* === CARDS === */
+.card-palestrante {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.card-palestrante img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.arrow-icon {
+    transition: transform 0.3s ease;
+}
+.toggle-arrow[aria-expanded="true"] .arrow-icon {
+    transform: rotate(180deg);
+}
+/* Si no hay contenido, que no deje espacio */
+.collapse:empty,
+.collapse:empty::before,
+.collapse:empty::after {
+    display: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    height: 0 !important;
+}
+
+
+/* === INSCRIÇAO === */
+
+.titulo-secao {
+  font-size: 2rem;
+  color: #005f6b;
+  margin-bottom: 1.5rem;
+  border-left: 6px solid #00b3b3;
+  padding-left: 1rem;
+}
+
+.subtitulo-secao {
+  font-size: 1.5rem;
+  color: #003d4c;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.alerta-importante {
+  background-color: #e6f7ff;
+  border-left: 5px solid #00aaff;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  font-weight: 500;
+  color: #004466;
+  border-radius: 4px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+/* === horario === */
+#tabla-horario td, #tabla-horario th { padding: .35rem .5rem; font-size: .9rem; }
+#tabla-horario td a { color: inherit; font-weight: 500; }
+#info-sesion .card { max-width: 600px; margin: auto; }
+@media (max-width: 767px){
+  #tabla-horario thead { display: none; }        /* oculta cabecera */
+  #tabla-horario tr   { display: block; border: 0; }
+  #tabla-horario th, #tabla-horario td {
+    display: block; width: 100%; border:0;       /* “stacked” en móvil */
+  }
+}
+
+/* === FOOTER === */
+.bg-footer {
+    background-color: #001219;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" preserveAspectRatio="xMidYMid meet">
+  <!-- Fondo transparente; solo el logotipo tipográfico -->
+  <g fill="white" font-family="Bauer Bodoni, Bodoni, 'Times New Roman', serif" text-anchor="start">
+    <!-- "XLVIII" y "CONGRESSO" en la misma línea base -->
+    <text x="30"  y="90" font-size="120" font-weight="normal">XLVIII</text>
+    <text x="410" y="50" font-size="60"  font-weight="normal">CONGRESSO</text>
+    <!-- "PAULO LEAL FERREIRA" justo debajo de "CONGRESSO" -->
+    <text x="410" y="90" font-size="30.5"  font-weight="normal" letter-spacing="1">PAULO LEAL FERREIRA</text>
+  </g>
+</svg>

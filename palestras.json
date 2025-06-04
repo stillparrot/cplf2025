@@ -1,0 +1,157 @@
+[
+  {
+    "id": "mc01",
+    "categoria": "MINICURSO",
+    "nome": "Prof. Gastao Krein",
+    "afiliacao": "IFT-UNESP",
+    "titulo": "Teoria de Campos Titulo",
+    "foto": "images/palestrantes/gastao_krein_web.jpeg",
+    "resumo": "Este minicurso abordará...",
+    "bio": "Ana Silva é professora titular...",
+    "detalhes": {
+      "programa": [
+        "Dia 1 – Fundamentos",
+        "Dia 2 – Aplicações Cosmológicas"
+      ],
+      "nivel": "Pós-graduação",
+      "material": "https://..."
+    }
+  },
+  {
+    "id": "mc02",
+    "categoria": "MINICURSO",
+    "nome": "Prof. Carlos Alberto Santos de Almeida",
+    "afiliacao": "IF-USP",
+    "titulo": "Teoria de Campos fora do Equilíbrio",
+    "foto": "images/palestrantes/placeholder.png",
+    "resumo": "Este minicurso abordará...",
+    "bio": "Ana Silva é professora titular...",
+    "detalhes": {
+      "programa": [
+        "Dia 1 – Fundamentos",
+        "Dia 2 – Aplicações Cosmológicas"
+      ],
+      "nivel": "Pós-graduação",
+      "material": "https://..."
+    }
+  },
+  {
+    "id": "pl01",
+    "categoria": "PALESTRANTE",
+    "nome": "Prof. Mario Novello",
+    "afiliacao": "CBPF",
+    "titulo": "Do Big Bang ao Universo Eterno",
+    "foto": "images/palestrantes/mario_novello.jpg",
+    "resumo": "",
+    "bio": "Mario Novello é doutor em Física pela Université de Genève (1972) e mestre pelo Centro Brasileiro de Pesquisas Físicas (CBPF), onde fundou, em 1976, o grupo de Cosmologia e Gravitação. É Pesquisador Emérito da FAPERJ e Professor Emérito do CBPF, instituição na qual atuou por quatro décadas. Criador do primeiro modelo analítico de Universo com ricochete (“bouncing”) e fundador do Instituto de Cosmologia, Relatividade e Astrofísica (ICRA), foi homenageado com diversos prêmios e distinções, como o título de Doutor Honoris Causa pela Universidade de Lyon e o Prêmio Jabuti pelo livro Os Cientistas da Minha Formação.",
+    "palavras_chave": ["Cosmologia", "Big Bang"]
+  },
+  {
+    "id": "pl02",
+    "categoria": "PALESTRANTE",
+    "nome": "Profa. Ana Mizher",
+    "afiliacao": "UNICID, IFT-UNESP",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/ana_mizher_fapesp.png",
+    "resumo": "",
+    "bio": "Ana Mizher é doutora em Física pela Universidade Federal do Rio de Janeiro (2010), com passagens de pesquisa pós-doutoral pelo CBPF, UNAM (México), KU Leuven (Bélgica) e IFT-UNESP. Atualmente, é professora na Universidade Cidade de São Paulo e colaboradora no Instituto de Física Teórica da UNESP. Atua em Teoria de Campos e Fenomenologia de Partículas, com foco em plasma de quarks e glúons, cromodinâmica quântica a temperatura e densidade finitas, efeitos eletromagnéticos em sistemas de partículas e analogias com matéria condensada de baixa dimensionalidade.",
+    "palavras_chave": [""]
+  },
+  {
+    "id": "pl03",
+    "categoria": "PALESTRANTE",
+    "nome": "Prof. Luciano Melo Abreu",
+    "afiliacao": "UFRJ",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/placeholder.png",
+    "resumo": "Nesta palestra discutiremos...",
+    "bio": "Luciano Melo Abreu é doutor em Física pelo CBPF (2005), com estágio doutoral na École Polytechnique de Paris e pós-doutorados realizados na USP, Universidad Complutense de Madrid e Universitat de València. É Professor Titular da Universidade Federal da Bahia e atua na área de Física de Partículas e Campos, com ênfase em teorias de campos efetivas aplicadas à matéria fortemente interagente. Participa de diversas colaborações nacionais e internacionais, como o IDPASC e o INCT-FNA, e integra o projeto temático da FAPESP ligado ao LHC-CERN.",
+    "palavras_chave": [""]
+  },
+  {
+    "id": "pl04",
+    "categoria": "PALESTRANTE",
+    "nome": "Prof. Gabriel Santos Menezes",
+    "afiliacao": "IFUSP",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/gabriel_meneses_ifusp.jpg",
+    "resumo": "Nesta palestra discutiremos...",
+    "bio": "Gabriel Santos Menezes é Professor Doutor no Instituto de Física da Universidade de São Paulo e bolsista de produtividade em pesquisa do CNPq. Suas áreas de atuação abrangem teorias de partículas e campos, com foco em amplitudes de espalhamento em teorias de calibre e gravidade, gravitação clássica e quântica, cosmologia inflacionária e aspectos teóricos da física de partículas e teoria de cordas.",
+    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+  },
+  {
+    "id": "pl05",
+    "categoria": "PALESTRANTE",
+    "nome": "Profa. Debora Peres Menezes",
+    "afiliacao": "UFSC",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/debora_menezes_lattes.gif",
+    "resumo": "",
+    "bio": "Débora Peres Menezes é professora titular da Universidade Federal de Santa Catarina e atual Diretora de Avaliação de Resultados e Soluções Digitais do CNPq. Doutora pela University of Oxford, com passagens por instituições na Austrália, Espanha, Portugal e França, atua em Física Nuclear e de Hádrons, com foco em equações de estado, modelos relativísticos e astrofísica nuclear. Foi presidente da SBF, é membra da Academia Brasileira de Ciências e se dedica ativamente à divulgação científica, coordenando o projeto Mulheres na Ciência nas redes sociais.",
+    "palavras_chave": [""]
+  },
+  {
+    "id": "pl06",
+    "categoria": "PALESTRANTE",
+    "nome": "Prof. Nelson Yokomizo",
+    "afiliacao": "UFMG",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/placeholder.png",
+    "resumo": "Nesta palestra discutiremos...",
+    "bio": "Nelson Yokomizo é doutor em Física pela Universidade de São Paulo, com estágios de pós-doutoramento na USP e no Institute for Gravitation and the Cosmos da Penn State University. Atua em física-matemática, gravitação e teoria quântica de campos, com ênfase em teorias de campos em espaços curvos, eletrodinâmica quântica com campos fortes, cosmologia e gravitação quântica de laços.",
+    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+  },
+  {
+    "id": "pl07",
+    "categoria": "PALESTRANTE",
+    "nome": "Me. Filipe Menezes ",
+    "afiliacao": "UFMG",
+    "titulo": "Aqui viene el título",
+    "foto": "images/palestrantes/filipe_menezes_web.jpeg",
+    "resumo": "Nesta palestra discutiremos...",
+    "bio": "Filipe Henrique de Castro Menezes é doutorando em Física pela Universidade Federal de Minas Gerais, onde também concluiu a graduação e o mestrado. Atua nas áreas de relatividade geral e gravitação quântica de laços, tendo trabalhado com termodinâmica de buracos negros. É integrante do Grupo de Física Teórica Fundamental (GFT) e idealizador do canal de divulgação científica Uai Física, com milhões de visualizações e ampla produção de conteúdo voltado ao ensino de física.",
+    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+  },
+  {
+    "id": "mr01",
+    "categoria": "MESA REDONDA",
+    "nome": "Dra. Marina Lopes",
+    "afiliacao": "UFABC",
+    "titulo": "O papel da mulher na física teórica",
+    "foto": "images/palestrantes/placeholder.png",
+    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
+    "temas": [
+      "Desigualdade de gênero na academia",
+      "Políticas institucionais",
+      "Desafios de carreira"
+    ]
+  },
+  {
+    "id": "mr02",
+    "categoria": "MESA REDONDA",
+    "nome": "Dra. Marina Lopes",
+    "afiliacao": "UFABC",
+    "titulo": "O papel da mulher na física teórica",
+    "foto": "images/palestrantes/placeholder.png",
+    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
+    "temas": [
+      "Desigualdade de gênero na academia",
+      "Políticas institucionais",
+      "Desafios de carreira"
+    ]
+  },
+  {
+    "id": "mr03",
+    "categoria": "MESA REDONDA",
+    "nome": "Dra. Marina Lopes",
+    "afiliacao": "UFABC",
+    "titulo": "O papel da mulher na física teórica",
+    "foto": "images/palestrantes/placeholder.png",
+    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
+    "temas": [
+      "Desigualdade de gênero na academia",
+      "Políticas institucionais",
+      "Desafios de carreira"
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "reg01",
+    "dia": "2025-10-14",
+    "hora_inicio": "08:00",
+    "hora_fin": "08:30",
+    "tipo": "REGISTRO",
+    "titulo": "Registro"
+  },
+  {
+    "id": "pl01slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "08:30",
+    "hora_fin": "10:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl01"
+  },
+  {
+    "id": "cb01",
+    "dia": "2025-10-14",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "tipo": "COFFEE",
+    "titulo": "Coffee Break"
+  },
+  {
+    "id": "pl02slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "10:30",
+    "hora_fin": "12:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl02"
+  },
+  {
+    "id": "lunch01",
+    "dia": "2025-10-14",
+    "hora_inicio": "12:00",
+    "hora_fin": "13:30",
+    "tipo": "ALMUERZO",
+    "titulo": "Almoço"
+  },
+  {
+    "id": "plE01slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "13:30",
+    "hora_fin": "14:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE02slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "14:00",
+    "hora_fin": "14:30",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE03slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "14:30",
+    "hora_fin": "15:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE03slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "15:00",
+    "hora_fin": "15:30",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "15:30",
+    "hora_fin": "16:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "cb02",
+    "dia": "2025-10-14",
+    "hora_inicio": "16:00",
+    "hora_fin": "16:30",
+    "tipo": "POSTER",
+    "titulo": "Pôster - Coffee Break"
+  },
+  {
+    "id": "mc01slot",
+    "dia": "2025-10-14",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc02"
+  },
+  {
+    "id": "pl01slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "08:30",
+    "hora_fin": "10:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc01"
+  },
+  {
+    "id": "cb03",
+    "dia": "2025-10-15",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "tipo": "COFFEE",
+    "titulo": "Coffee Break"
+  },
+  {
+    "id": "pl02slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "10:30",
+    "hora_fin": "12:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl03"
+  },
+  {
+    "id": "lunch01",
+    "dia": "2025-10-15",
+    "hora_inicio": "12:00",
+    "hora_fin": "13:30",
+    "tipo": "ALMUERZO",
+    "titulo": "Almoço"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "13:30",
+    "hora_fin": "14:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "14:00",
+    "hora_fin": "14:30",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "pl07slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "14:30",
+    "hora_fin": "16:00",
+    "tipo": "MESA REDONDA",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "cb04",
+    "dia": "2025-10-15",
+    "hora_inicio": "16:00",
+    "hora_fin": "16:30",
+    "tipo": "POSTER",
+    "titulo": "Pôster - Coffee Break"	
+  },
+  {
+    "id": "mc01slot",
+    "dia": "2025-10-15",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc02"
+  },
+  {
+    "id": "pl01slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "08:30",
+    "hora_fin": "10:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc01"
+  },
+  {
+    "id": "cb05",
+    "dia": "2025-10-16",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "tipo": "COFFEE",
+    "titulo": "Coffee Break"
+  },
+  {
+    "id": "pl02slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "10:30",
+    "hora_fin": "12:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl04"
+  },
+  {
+    "id": "lunch01",
+    "dia": "2025-10-16",
+    "hora_inicio": "12:00",
+    "hora_fin": "13:30",
+    "tipo": "ALMUERZO",
+    "titulo": "Almoço"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "13:30",
+    "hora_fin": "14:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "14:00",
+    "hora_fin": "14:30",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "pl07slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "14:30",
+    "hora_fin": "16:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl05"
+  },
+  {
+    "id": "cb06",
+    "dia": "2025-10-16",
+    "hora_inicio": "16:00",
+    "hora_fin": "16:30",
+    "tipo": "POSTER",
+    "titulo": "Pôster - Coffee Break"
+  },
+  {
+    "id": "mc01slot",
+    "dia": "2025-10-16",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc02"
+  },
+  {
+    "id": "pl01slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "08:30",
+    "hora_fin": "10:00",
+    "tipo": "MINICURSO",
+    "speaker_id": "mc01"
+  },
+  {
+    "id": "cb07",
+    "dia": "2025-10-17",
+    "hora_inicio": "10:00",
+    "hora_fin": "10:30",
+    "tipo": "COFFEE",
+    "titulo": "Coffee Break"
+  },
+  {
+    "id": "pl02slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "10:30",
+    "hora_fin": "12:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl06"
+  },
+  {
+    "id": "lunch01",
+    "dia": "2025-10-17",
+    "hora_inicio": "12:00",
+    "hora_fin": "13:30",
+    "tipo": "ALMUERZO",
+    "titulo": "Almoço"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "13:30",
+    "hora_fin": "14:00",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "plE04slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "14:00",
+    "hora_fin": "14:30",
+    "tipo": "PALESTU",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "pl07slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "14:30",
+    "hora_fin": "16:00",
+    "tipo": "PALESTRANTE",
+    "speaker_id": "pl07"
+  },
+  {
+    "id": "cb08",
+    "dia": "2025-10-17",
+    "hora_inicio": "16:00",
+    "hora_fin": "16:30",
+    "tipo": "POSTER",
+    "titulo": "Pôster - Coffee Break"
+  },
+  {
+    "id": "mc01slot",
+    "dia": "2025-10-17",
+    "hora_inicio": "16:30",
+    "hora_fin": "18:00",
+    "tipo": "MESA REDONDA",
+    "speaker_id": "mc01"
+  }
+]
