@@ -1,9 +1,10 @@
 <!--
 Para hacer a continuacion
-- Actualizar el formulario de inscripciones
-- hacer smooth las trancisiones
-- mejorar los enlaces
-- Hacer horario
+- Animaciones finales
+- Mejorar inicio
+- mejorar palestrantes
+- mejorar inscribase
+- Mejorar el horario
 - Pedir una mejor foto del IFT
 -->
 
@@ -23,17 +24,42 @@ Para hacer a continuacion
 </head>
 
 <body>
+  <header>
+    <nav class="navbar custom-navbar navbar-expand-lg navbar-dark fixed-top">
+      <div class="container-fluid px-3 px-md-4 px-lg-5">
+        <a class="navbar-brand d-flex align-items-center" href="#" data-page="home.html">
+          <img src="images/CPLF_logo_bp.png" alt="Logo CPLF" style="height: 100px;" class="me-2">
+        </a>
+      
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="#" data-page="home.html">Início</a></li>
+            <li class="nav-item"><a class="nav-link" href="#" data-page="palestrantes.html">Palestrantes</a></li>
+            <!-- <li class="nav-item"><a class="nav-link" href="#" data-page="schedule.html">Programa</a></li> -->
+            <li class="nav-item">
+              <a href="#" data-page="inscricoes.html"
+                class="btn btn-translucido btn-inscricao btn-lg ms-lg-3 mt-2 mt-lg-0">
+                Inscreva-se
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
 
-<div id="navbar"></div>
+  <!-- Contenedores para insertar -->
+  <div id="navbar"></div>
+  <main id="content"></main>
+  <div id="footer"></div>
 
-<main style="margin-top: 120px;" id="content"></main>
-
-<div id="footer"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="schedule.js" defer></script>
-<script src="mainscript.js"></script>
-<script src="parallax.js"></script>
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="schedule.js" defer></script>
+  <script src="main.js"></script>
 
 </body>
 

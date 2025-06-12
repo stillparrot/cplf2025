@@ -2,19 +2,16 @@
   {
     "id": "mc01",
     "categoria": "MINICURSO",
-    "nome": "Prof. Gastao Krein",
+    "nome": "Prof. Gastão Krein",
     "afiliacao": "IFT-UNESP",
-    "titulo": "Teoria de Campos Titulo",
+    "titulo": "A confirmar",
     "foto": "images/palestrantes/gastao_krein_web.jpeg",
-    "resumo": "Este minicurso abordará...",
-    "bio": "Ana Silva é professora titular...",
+    "resumo": "Os resumos e materiais desta seção ainda estão sendo organizados. Em breve, mais informações estarão disponíveis.",
+    "bio": "Gastão Krein é doutor em Física pela Universidade Federal do Rio Grande do Sul e pesquisador titular da Universidade Estadual Paulista (UNESP). Atua na área de física de partículas e campos, com foco em cromodinâmica quântica, simetria quiral, modelos de quarks, quebra espontânea de simetria e mésons charmosos. Tem ampla experiência no estudo teórico das interações fortes e das propriedades da matéria hadrônica.",
     "detalhes": {
-      "programa": [
-        "Dia 1 – Fundamentos",
-        "Dia 2 – Aplicações Cosmológicas"
-      ],
-      "nivel": "Pós-graduação",
-      "material": "https://..."
+      "programa": "",
+      "nivel": "",
+      "material": ""
     }
   },
   {
@@ -22,17 +19,14 @@
     "categoria": "MINICURSO",
     "nome": "Prof. Carlos Alberto Santos de Almeida",
     "afiliacao": "IF-USP",
-    "titulo": "Teoria de Campos fora do Equilíbrio",
-    "foto": "images/palestrantes/placeholder.png",
-    "resumo": "Este minicurso abordará...",
-    "bio": "Ana Silva é professora titular...",
+    "titulo": "A confirmar",
+    "foto": "images/palestrantes/carlos-alberto.jpg",
+    "resumo": "Os resumos e materiais desta seção ainda estão sendo organizados. Em breve, mais informações estarão disponíveis.",
+    "bio": "Carlos Alberto Santos de Almeida é Professor Titular da Universidade Federal do Ceará, onde atua na pós-graduação em Física e em programas de ensino e divulgação científica. Doutor em Física pelo CBPF, trabalha com teoria de partículas e campos, desenvolvendo pesquisas em teorias topológicas, brane worlds, colisões de sólitons, gravitação alternativa e supersimetria. Também atua na formação de professores, com foco em metodologias pedagógicas e ensino de ciências em espaços não formais.",
     "detalhes": {
-      "programa": [
-        "Dia 1 – Fundamentos",
-        "Dia 2 – Aplicações Cosmológicas"
-      ],
-      "nivel": "Pós-graduação",
-      "material": "https://..."
+      "programa": "",
+      "nivel": "",
+      "material": ""
     }
   },
   {
@@ -51,107 +45,85 @@
     "categoria": "PALESTRANTE",
     "nome": "Profa. Ana Mizher",
     "afiliacao": "UNICID, IFT-UNESP",
-    "titulo": "Aqui viene el título",
+    "titulo": "A confirmar",
     "foto": "images/palestrantes/ana_mizher_fapesp.png",
     "resumo": "",
     "bio": "Ana Mizher é doutora em Física pela Universidade Federal do Rio de Janeiro (2010), com passagens de pesquisa pós-doutoral pelo CBPF, UNAM (México), KU Leuven (Bélgica) e IFT-UNESP. Atualmente, é professora na Universidade Cidade de São Paulo e colaboradora no Instituto de Física Teórica da UNESP. Atua em Teoria de Campos e Fenomenologia de Partículas, com foco em plasma de quarks e glúons, cromodinâmica quântica a temperatura e densidade finitas, efeitos eletromagnéticos em sistemas de partículas e analogias com matéria condensada de baixa dimensionalidade.",
-    "palavras_chave": [""]
+    "palavras_chave": ""
   },
   {
     "id": "pl03",
     "categoria": "PALESTRANTE",
     "nome": "Prof. Luciano Melo Abreu",
     "afiliacao": "UFRJ",
-    "titulo": "Aqui viene el título",
-    "foto": "images/palestrantes/placeholder.png",
-    "resumo": "Nesta palestra discutiremos...",
+    "titulo": "A confirmar",
+    "foto": "images/palestrantes/luciano_melo_web.jpeg",
+    "resumo": "",
     "bio": "Luciano Melo Abreu é doutor em Física pelo CBPF (2005), com estágio doutoral na École Polytechnique de Paris e pós-doutorados realizados na USP, Universidad Complutense de Madrid e Universitat de València. É Professor Titular da Universidade Federal da Bahia e atua na área de Física de Partículas e Campos, com ênfase em teorias de campos efetivas aplicadas à matéria fortemente interagente. Participa de diversas colaborações nacionais e internacionais, como o IDPASC e o INCT-FNA, e integra o projeto temático da FAPESP ligado ao LHC-CERN.",
-    "palavras_chave": [""]
+    "palavras_chave": ""
   },
   {
     "id": "pl04",
     "categoria": "PALESTRANTE",
     "nome": "Prof. Gabriel Santos Menezes",
     "afiliacao": "IFUSP",
-    "titulo": "Aqui viene el título",
-    "foto": "images/palestrantes/gabriel_meneses_ifusp.jpg",
-    "resumo": "Nesta palestra discutiremos...",
+    "titulo": "Um convite à dualidade cor-cinemática e à cópia dupla, com algumas aplicações recentes",
+    "foto": "images/palestrantes/gabriel_meneses.jpg",
+    "resumo": "Investigações em amplitudes de espalhamento on-shell expuseram estruturas de cor-cinemática e cópia dupla anteriormente ocultas em teorias que vão desde teorias de calibre e gravitacional até teorias efetivas. Essas novas estruturas simplificam significativamente muitos cálculos potencialmente desafiadores e levantam questões instigantes relacionadas a uma estrutura unificada subjacente às teorias quânticas relativísticas. Este seminário faz um convite a uma exploração mais aprofundada desses tópicos. Após uma breve introdução à dualidade cor-cinemática e à cópia dupla, apresentaremos dois exemplos distintos: (1) uma introdução à construção da cópia dupla para teorias com derivadas de ordem superior e (2) uma discussão sobre a aplicação da cópia dupla a cálculos relevantes para a física de ondas gravitacionais.",
     "bio": "Gabriel Santos Menezes é Professor Doutor no Instituto de Física da Universidade de São Paulo e bolsista de produtividade em pesquisa do CNPq. Suas áreas de atuação abrangem teorias de partículas e campos, com foco em amplitudes de espalhamento em teorias de calibre e gravidade, gravitação clássica e quântica, cosmologia inflacionária e aspectos teóricos da física de partículas e teoria de cordas.",
-    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+    "palavras_chave": ""
   },
   {
     "id": "pl05",
     "categoria": "PALESTRANTE",
-    "nome": "Profa. Debora Peres Menezes",
+    "nome": "Profa. Débora Peres Menezes",
     "afiliacao": "UFSC",
-    "titulo": "Aqui viene el título",
-    "foto": "images/palestrantes/debora_menezes_lattes.gif",
-    "resumo": "",
+    "titulo": "Física nuclear, ondas gravitacionais e matéria escura como ferramentas para estudar estrelas de nêutrons",
+    "foto": "images/palestrantes/debora_menezes.png",
+    "resumo": "Acredita-se que existam três possíveis remanescentes estelares, dependendo das massas das estrelas no final da sua vida evolutiva, quando a fusão deixa de ocorrer por falta de combustível: buracos negros, estrelas de nêutrons (NS) e anãs brancas. Vou dedicar a palestra às estrelas de nêutrons. Nós não sabemos os seus constituintes, mas elas certamente não são compostas apenas por nêutrons. Supondo que todos os principais constituintes sejam hádrons, não apenas nucleons são esperados, isto é, não há razão para desconsiderarmos os híperons. Outra possibilidade é que as NS sejam objetos híbridos: a parte mais externa seja hadrônica, mas o caroço central contenha quarks desconfiados. A terceira hipótese é que as NS sejam estrelas puramente compostas por quarks. \n\n A primeira estrela de nêutrons foi observada em 1967 com uma massa da ordem de 1,5 massa solar. Desde 2017, quando a primeira onda gravitacional resultante da fusão de duas estrelas de nêutrons foi detectada, novos vínculos na equação de estado usada para descrever estrelas de nêutrons foram obtidos. Além disso, os primeiros dados enviados pelo telescópio NICER ficaram disponíveis em 2021, contribuindo para o entendimento do cenário, depois que uma NS muito massiva (da ordem de duas massas solares) e raio de aproximadamente 12 km foi confirmada. Mais recentemente, outros objetos exóticos, com massas baixas e raios pequenos também foram detectados, nomeadamente, HESS J1731-347 e XTE J1814-338. \n\n Com o advento dessas detecções, as três conjecturas mencionadas acima têm sido exploradas e a possibilidade de que matéria escura, tanto interagindo fracamente com a matéria hadrônica ou apenas gravitacionalmente têm sido exploradas. Descreverei todos esses cenários e mostrarei como os vínculos observacionais podem (ou não) ser satisfeitos.", 
     "bio": "Débora Peres Menezes é professora titular da Universidade Federal de Santa Catarina e atual Diretora de Avaliação de Resultados e Soluções Digitais do CNPq. Doutora pela University of Oxford, com passagens por instituições na Austrália, Espanha, Portugal e França, atua em Física Nuclear e de Hádrons, com foco em equações de estado, modelos relativísticos e astrofísica nuclear. Foi presidente da SBF, é membra da Academia Brasileira de Ciências e se dedica ativamente à divulgação científica, coordenando o projeto Mulheres na Ciência nas redes sociais.",
-    "palavras_chave": [""]
+    "palavras_chave": ""
   },
   {
     "id": "pl06",
     "categoria": "PALESTRANTE",
     "nome": "Prof. Nelson Yokomizo",
     "afiliacao": "UFMG",
-    "titulo": "Aqui viene el título",
-    "foto": "images/palestrantes/placeholder.png",
-    "resumo": "Nesta palestra discutiremos...",
+    "titulo": "A confirmar",
+    "foto": "images/palestrantes/nelson_yokomizo_ufmg.jpg",
+    "resumo": "",
     "bio": "Nelson Yokomizo é doutor em Física pela Universidade de São Paulo, com estágios de pós-doutoramento na USP e no Institute for Gravitation and the Cosmos da Penn State University. Atua em física-matemática, gravitação e teoria quântica de campos, com ênfase em teorias de campos em espaços curvos, eletrodinâmica quântica com campos fortes, cosmologia e gravitação quântica de laços.",
-    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+    "palavras_chave": ""
   },
   {
     "id": "pl07",
     "categoria": "PALESTRANTE",
     "nome": "Me. Filipe Menezes ",
     "afiliacao": "UFMG",
-    "titulo": "Aqui viene el título",
-    "foto": "images/palestrantes/filipe_menezes_web.jpeg",
-    "resumo": "Nesta palestra discutiremos...",
+    "titulo": "A confirmar",
+    "foto": "images/palestrantes/filipe_menezes.png",
+    "resumo": "",
     "bio": "Filipe Henrique de Castro Menezes é doutorando em Física pela Universidade Federal de Minas Gerais, onde também concluiu a graduação e o mestrado. Atua nas áreas de relatividade geral e gravitação quântica de laços, tendo trabalhado com termodinâmica de buracos negros. É integrante do Grupo de Física Teórica Fundamental (GFT) e idealizador do canal de divulgação científica Uai Física, com milhões de visualizações e ampla produção de conteúdo voltado ao ensino de física.",
-    "palavras_chave": ["buracos negros", "gravidade quântica", "AdS/CFT"]
+    "palavras_chave": ""
   },
   {
     "id": "mr01",
     "categoria": "MESA REDONDA",
-    "nome": "Dra. Marina Lopes",
-    "afiliacao": "UFABC",
-    "titulo": "O papel da mulher na física teórica",
-    "foto": "images/palestrantes/placeholder.png",
-    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
-    "temas": [
-      "Desigualdade de gênero na academia",
-      "Políticas institucionais",
-      "Desafios de carreira"
-    ]
+    "nome": "Prof. Alexandre Alves",
+    "afiliacao": "UNIFESP",
+    "titulo": "IA na física",
+    "foto": "images/palestrantes/alexandre_alves.png",
+    "bio": "Alexandre Alves é doutor em Física de Partículas Elementares pelo Instituto de Física Teórica (IFT-UNESP) e Professor Associado da Universidade Federal de São Paulo (UNIFESP). Atua na área de fenomenologia de partículas, com ênfase na busca por física além do Modelo Padrão, matéria escura e aplicações do Princípio da Máxima Entropia. Integra o Advanced Institute for Artificial Intelligence e desenvolve pesquisas em interseções entre inteligência artificial e física de partículas.",
+    "temas": ""
   },
   {
     "id": "mr02",
     "categoria": "MESA REDONDA",
-    "nome": "Dra. Marina Lopes",
-    "afiliacao": "UFABC",
-    "titulo": "O papel da mulher na física teórica",
-    "foto": "images/palestrantes/placeholder.png",
-    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
-    "temas": [
-      "Desigualdade de gênero na academia",
-      "Políticas institucionais",
-      "Desafios de carreira"
-    ]
-  },
-  {
-    "id": "mr03",
-    "categoria": "MESA REDONDA",
-    "nome": "Dra. Marina Lopes",
-    "afiliacao": "UFABC",
-    "titulo": "O papel da mulher na física teórica",
-    "foto": "images/palestrantes/placeholder.png",
-    "bio": "Marina Lopes é docente da UFABC e atua na área de divulgação científica e equidade de gênero.",
-    "temas": [
-      "Desigualdade de gênero na academia",
-      "Políticas institucionais",
-      "Desafios de carreira"
-    ]
+    "nome": "Prof. Dario Rosa",
+    "afiliacao": "ICTP, IFT-UNESP",
+    "titulo": "Ia na física",
+    "foto": "images/palestrantes/dario_rosa_chat.png",
+    "bio": "Dario Rosa é pesquisador do Instituto de Física Teórica da UNESP (IFT-UNESP) e do ICTP-SAIFR, atuando como Simons-FAPESP Young Investigator. Trabalha na interface entre informação quântica, computação quântica e sistemas fortemente correlacionados. Possui ampla experiência em física quântica e técnicas numéricas de larga escala, com mais de 30 artigos publicados em periódicos científicos de destaque e diversas colaborações nacionais e internacionais.",
+    "temas": ""
   }
 ]

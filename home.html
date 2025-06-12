@@ -4,7 +4,7 @@
     <div class="container position-relative text-center conteudo">
       <!-- Título y texto    -->
       <?xml version="1.0" encoding="UTF-8"?>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" class="titulo-svg desktop" preserveAspectRatio="xMidYMid meet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" class="titulo-svg desktop" preserveAspectRatio="xMidYMid meet">
         <!-- Fondo transparente; solo el logotipo tipográfico -->
         <g fill="white" font-family="Bauer Bodoni, Bodoni, 'Times New Roman', serif" text-anchor="start">
           <!-- "XLVIII" y "CONGRESSO" en la misma línea base -->
@@ -29,7 +29,7 @@
       <!-- Botón -->
       <div class="text-center">
         <a href="#" data-page="inscricoes.html"
-          class="btn btn-translucido btn-lg mt-4">Inscreva-se agora</a>
+          class="btn btn-cplf1 btn-lg mt-4">Inscreva-se agora</a>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@
   <div class="container">
     <div class="row align-items-center">
       <!-- Columna de texto -->
-      <div class="col-lg-6 g-lg-5 text-center text-lg-start mb-4 mb-lg-0">
+      <div class="col-lg-6 g-lg-5 text-center text-lg-start mb-4 mt-4 mb-lg-0">
         <p class="justificado"> O <strong>Congresso Paulo Leal Ferreira</strong> é um evento anual organizado por alunos de 
           pós-graduação do Instituto de Física Teórica da UNESP. Seu objetivo é contribuir para a formação
           de novos pesquisadores, promovendo a troca de ideias entre estudantes de diferentes instituições
@@ -52,15 +52,29 @@
           <a href="#" data-page="inscricoes.html" class="text-primary">Inscrições abertas</a>
         </p>
         <div class="mt-3">
-          <p><strong>Inscrições (com apoio):</strong> 01–31 de julho</p>
-          <p><strong>Inscrições (sem apoio):</strong> 01–30 de agosto</p>
-          <p><strong>Congresso:</strong> 14–17 de octubre</p>
-          <p><strong>Atividades especiais:</strong> 18 de octubre</p>
+          <div class="date-row">
+            <strong>Inscrições (com apoio):</strong>
+            <span class="date-card">01–31 de julho</span>
+          </div>
+          <div class="date-row">
+            <strong>Inscrições (sem apoio):</strong>
+            <span class="date-card">01–30 de agosto</span>
+          </div>
+          <div class="date-row">
+            <strong>Congresso:</strong>
+            <span class="date-card">14–17 de outubro</span>
+          </div>
+          <div class="date-row">
+            <strong>Mesa Redonda:</strong>
+            <span class="date-card">15 de outubro</span>
+          </div>
         </div>
+
+
       </div>
   
       <!-- Columna de imagem -->
-      <div class="col-lg-6 text-center">
+      <div class="col-lg-6 mt-4 text-center">
         <img src="images/predioift.jpg" alt="IFT UNESP" class="img-fluid rounded shadow">
       </div>
     </div>
@@ -82,20 +96,20 @@
       <div class="col-md-4 mb-4">
         <img src="images/palestrantes/mario_novello.jpg" alt="Mario_im" class="rounded-circle img-fluid mb-3" style="width: 200px; height: 200px; object-fit: cover;">
         <h5 class="fw-bold">Prof. Mario Novello</h5>
-        <!--<p class="mb-1 text-muted">ICTP-SAIFR</p> -->
+        <p class="mb-1 text-muted">CBPF</p> 
         <p class="fst-italic">Palestra: Do Big Bang ao Universo Eterno</p>
       </div>
       <!-- Speaker 3 -->
       <div class="col-md-4 mb-4">
-        <img src="images/palestrantes/filipe_menezes_web.jpeg" alt="Nome 3" class="rounded-circle img-fluid mb-3" style="width: 200px; height: 200px; object-fit: cover;">
-        <h5 class="fw-bold">Prof. Me. Filipe Menezes</h5>
+        <img src="images/palestrantes/debora_menezes.png" alt="Debora_im" class="rounded-circle img-fluid mb-3" style="width: 200px; height: 200px; object-fit: cover;">
+        <h5 class="fw-bold">Prof. Débora Menezes</h5>
         <p class="mb-1 text-muted">UFMG</p>
-        <p class="fst-italic">Palestra: Gravitação Quântica de Laços</p>
+        <p class="fst-italic">Palestra: Física nuclear, ondas gravitacionais e matéria escura como ferramentas para estudar estrelas de nêutrons</p>
       </div>
     </div>
   
     <!-- Botão para ver todos -->
-    <a href="#" data-page="palestrantes.html" class="btn btn-cplf-palestras btn-lg mt-0 mb-3">Ver todos os palestrantes</a>
+    <a href="#" data-page="palestrantes.html" class="btn btn-cplf1 btn-lg mt-0 mb-3">Ver todos os palestrantes</a>
   </div>
 </section>
 
@@ -135,7 +149,7 @@
     </div>
   
     <!-- Patrocinadores -->
-    <h4 class="mb-3">Patrocinadores</h4>
+    <h4 class="mb-2 mt-3">Patrocinadores</h4>
     <div class="row text-center align-items-center justify-content-center d-none d-sm-flex">
       <div class="col-6 col-md-3 mb-4">
         <img src="images/Logos/IFT_horiz_col.png" alt="Sponsor 1" class="img-fluid logo-sponsor" style="max-height: 170px;">
@@ -146,9 +160,9 @@
       <div class="col-6 col-md-3 mb-4">
         <img src="images/Logos/SAIRF_horiz_col.png" alt="Sponsor 3" class="img-fluid logo-sponsor" style="max-height: 160px;">
       </div>
-      <div class="col-6 col-md-3 mb-4">
+      <!-- <div class="col-6 col-md-3 mb-4">
         <img src="images/Logos/UNESP_horiz_col.png" alt="Sponsor 4" class="img-fluid logo-sponsor" style="max-height: 110px;">
-      </div>
+      </div> -->
       <!-- Podés duplicar más logos aquí -->
     </div>
     <!-- LOGOS para celular (versão acortada) -->
@@ -162,9 +176,9 @@
       <div class="col-6 mb-3">
         <img src="images/Logos/UNESP_vert_col.png" alt="UNESP" class="img-fluid" style="max-height: 160px;">
       </div>
-      <div class="col-6 mb-3">
+      <!-- <div class="col-6 mb-3">
         <img src="images/Logos/SAIRF_vert_col.png" alt="ICTP-SAIFR" class="img-fluid" style="max-height: 140px;">
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
