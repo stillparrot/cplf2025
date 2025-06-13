@@ -384,7 +384,7 @@ section {
   border-radius: 0.375rem;    /* Borde redondeado */
   font-size: 0.95rem;         /* Tamaño de fuente ligeramente reducido */
   font-weight: 500;
-  width: 160px;           /* todos tendrán este ancho fijo */
+  width: 200px;           /* todos tendrán este ancho fijo */
   text-align: center;     /* para centrar el texto dentro */
   white-space: nowrap;    /* evita saltos de línea */
   overflow: hidden;       /* recorta si excede el ancho */
@@ -508,13 +508,13 @@ section {
 
 .alerta-importante {
   background-color: #e6f7ff;
-  border-left: 5px solid #00aaff;
   padding: 1rem;
   margin: 1.5rem 0;
   font-weight: 500;
   color: #004466;
   border-radius: 4px;
-}
+} */
+
 
 .img-fluid {
   max-width: 100%;

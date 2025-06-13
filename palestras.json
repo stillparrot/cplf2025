@@ -18,7 +18,7 @@
     "id": "mc02",
     "categoria": "MINICURSO",
     "nome": "Prof. Carlos Alberto Santos de Almeida",
-    "afiliacao": "IF-USP",
+    "afiliacao": "UFC",
     "titulo": "A confirmar",
     "foto": "images/palestrantes/carlos-alberto.jpg",
     "resumo": "Os resumos e materiais desta seção ainda estão sendo organizados. Em breve, mais informações estarão disponíveis.",
@@ -55,9 +55,9 @@
     "id": "pl03",
     "categoria": "PALESTRANTE",
     "nome": "Prof. Luciano Melo Abreu",
-    "afiliacao": "UFRJ",
-    "titulo": "A confirmar",
-    "foto": "images/palestrantes/luciano_melo_web.jpeg",
+    "afiliacao": "UFBA",
+    "titulo": "Investigando as propriedades dos hádrons exóticos",
+    "foto": "images/palestrantes/luciano_melo.png",
     "resumo": "",
     "bio": "Luciano Melo Abreu é doutor em Física pelo CBPF (2005), com estágio doutoral na École Polytechnique de Paris e pós-doutorados realizados na USP, Universidad Complutense de Madrid e Universitat de València. É Professor Titular da Universidade Federal da Bahia e atua na área de Física de Partículas e Campos, com ênfase em teorias de campos efetivas aplicadas à matéria fortemente interagente. Participa de diversas colaborações nacionais e internacionais, como o IDPASC e o INCT-FNA, e integra o projeto temático da FAPESP ligado ao LHC-CERN.",
     "palavras_chave": ""
@@ -124,6 +124,16 @@
     "titulo": "Ia na física",
     "foto": "images/palestrantes/dario_rosa_chat.png",
     "bio": "Dario Rosa é pesquisador do Instituto de Física Teórica da UNESP (IFT-UNESP) e do ICTP-SAIFR, atuando como Simons-FAPESP Young Investigator. Trabalha na interface entre informação quântica, computação quântica e sistemas fortemente correlacionados. Possui ampla experiência em física quântica e técnicas numéricas de larga escala, com mais de 30 artigos publicados em periódicos científicos de destaque e diversas colaborações nacionais e internacionais.",
+    "temas": ""
+  },
+  {
+    "id": "mr03",
+    "categoria": "MESA REDONDA",
+    "nome": "Prof. Clécio Roque de Bom",
+    "afiliacao": "CBPF",
+    "titulo": "Ia na física",
+    "foto": "images/palestrantes/clecio_roque_sbf.jpg",
+    "bio": "Clécio Roque de Bom é professor e tecnologista no Centro Brasileiro de Pesquisas Físicas (CBPF), onde coordena o Laboratório de Inteligência Artificial Aplicada (LABIA-CBPF). É porta-voz da colaboração internacional S-PLUS e coautor da descoberta do evento de kilonova GRB230307A. Seus interesses incluem cosmologia computacional, ondas gravitacionais, astrofísica extragaláctica, geofísica e aplicações de deep learning em ciência. Foi premiado como Pesquisador Destaque pela Brazil Conference em Harvard e MIT e é membro afiliado da Academia Brasileira de Ciências.",
     "temas": ""
   }
 ]
