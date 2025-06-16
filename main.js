@@ -218,7 +218,7 @@ function modalMinicurso(item) {
         </div>
         <div class="modal-body">
           ${bio ? `<p><strong>Bio:</strong> ${formatParagraphs(bio)}</p>` : ''}
-          ${resumo ? `<p><em>Resumo:</em> ${formatParagraphs(resumo)}</p>` : ''}
+          ${resumo ? `<p><strong>Resumo:</strong> ${formatParagraphs(resumo)}</p>` : ''}
           ${detalhes?.programa ? `<p><strong>Programa:</strong></p>
             <ul>${detalhes.programa.map(p => `<li>${p}</li>`).join('')}</ul>` : ''}
           ${detalhes?.nivel ? `<p><strong>Nível:</strong> ${detalhes.nivel}</p>` : ''}
@@ -239,7 +239,7 @@ function modalPalestrante(item) {
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
       </div>
       <div class="modal-body">
-        ${resumo ? `<p><em>Resumo:</em> ${resumo}</p>` : ''}
+        ${resumo ? `<p><strong>Resumo:</strong> ${resumo}</p>` : ''}
         ${bio ? `<p><strong>Bio:</strong> ${bio}</p>` : ''}
         ${palavras_chave.length ? `<p><strong>Palavras-chave:</strong> ${palavras_chave.join(', ')}</p>` : ''}
       </div>
