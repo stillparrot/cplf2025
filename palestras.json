@@ -4,9 +4,9 @@
     "categoria": "MINICURSO",
     "nome": "Prof. Gastão Krein",
     "afiliacao": "IFT-UNESP",
-    "titulo": "Effective Quantum Field Theory: Principles, Tools, and Applications",
+    "titulo": "Teoria Quântica de Campos Efetiva: Princípios, Ferramentas e Aplicações",
     "foto": "images/palestrantes/gastao_krein.png",
-    "resumo": "This three-part lecture series offers an <strong>introduction to Effective Quantum Field Theory (EQFT)</strong>. EQFTs allow us to describe long-wavelength physics without requiring complete knowledge of the short-wavelength dynamics. Designed for advanced undergraduates and MSc students, the series begins with the motivation for EFTs and the concept of scale separation, then develops the key tools of power counting, operator classification, matching to full theories or data, symmetry-based constraints, and renormalization. </p><p>These methods are illustrated through classic examples in nonrelativistic quantum scattering and chiral perturbation theory. Time permitting, I will also introduce the basics of the effective field theory of nonrelativistic quantum chromodynamics (NRQCD). The emphasis is on building intuition and technical skills that are broadly applicable in modern nuclear and particle physics.</p><p> A basic familiarity with quantum field theory is assumed.",
+    "resumo": "Esta série de aulas em três partes oferece uma introdução em <strong>Teoria Quântica de Campos Efetiva (EQFT)</strong>. As EQFTs permitem descrever a física de longas distâncias de um sistema físico sem exigir o conhecimento completo da sua dinâmica de curtas distâncias. </p><p>Projetada para estudantes de graduação avançados e mestrado, a série começa com a motivação para as EQFTs e o conceito de separação de escalas. A seguir, serão apresentadas as importantes ferramentas de contagem de potências, classificação de operadores, ajuste com teorias completas ou a dados, vínculos baseadas em simetrias e renormalização. Esses métodos serão ilustrados por meio de exemplos clássicos da teoria quântica do espalhamento não relativístico e a teoria de perturbação quiral. Se o tempo permitir, também será introduzido o básico da teoria de campo efetiva para a eletrodinâmica quântica não relativística (NRQED) e (talvez) a teoria equivalente para a cromodinâmica quântica (NRQCD). </p><p> O foco do minicurso é desenvolver a intuição e habilidades técnicas amplamente aplicáveis nas áreas modernas de física nuclear e de partículas. Assume-se familiaridade com o básico da teoria quântica de campos.",
     "bio": "Gastão Krein é doutor em Física pela Universidade Federal do Rio Grande do Sul e pesquisador titular da Universidade Estadual Paulista (UNESP). Atua na área de física de partículas e campos, com foco em cromodinâmica quântica, simetria quiral, modelos de quarks, quebra espontânea de simetria e mésons charmosos. Tem ampla experiência no estudo teórico das interações fortes e das propriedades da matéria hadrônica.",
     "detalhes": {
       "programa": "",
@@ -45,8 +45,8 @@
     "categoria": "PALESTRANTE",
     "nome": "Profa. Ana Mizher",
     "afiliacao": "UNICID, IFT-UNESP",
-    "titulo": "A confirmar",
-    "foto": "images/palestrantes/ana_mizher_fapesp.png",
+    "titulo": "O Plasma de Quarks e Glúons: Quebrando Recordes da Natureza",
+    "foto": "images/palestrantes/ana_mizher.png",
     "resumo": "",
     "bio": "Ana Mizher é doutora em Física pela Universidade Federal do Rio de Janeiro (2010), com passagens de pesquisa pós-doutoral pelo CBPF, UNAM (México), KU Leuven (Bélgica) e IFT-UNESP. Atualmente, é professora na Universidade Cidade de São Paulo e colaboradora no Instituto de Física Teórica da UNESP. Atua em Teoria de Campos e Fenomenologia de Partículas, com foco em plasma de quarks e glúons, cromodinâmica quântica a temperatura e densidade finitas, efeitos eletromagnéticos em sistemas de partículas e analogias com matéria condensada de baixa dimensionalidade.",
     "palavras_chave": ""

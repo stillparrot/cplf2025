@@ -390,11 +390,11 @@ section {
   overflow: hidden;       /* recorta si excede el ancho */
   text-overflow: ellipsis;/* pone "…" si no cabe completo */
 }
-@media (max-width: 575.98px) {
+@media (max-width: 992px) {
   .date-row {
     justify-content: center;
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin-left: min(12vw,250px);
+    margin-right: min(12vw,250px);
   }
   .date-row strong {
     min-width: 0;        /* eliminamos el ancho fijo que tenías */

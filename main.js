@@ -406,7 +406,14 @@ document.addEventListener("click", function (e) {
   }
 });
 
-
+// Scroll al hacer clic en contacto del footer
+document.addEventListener("click", function (e) {
+  if (e.target.closest("#contato")) {
+    e.preventDefault();
+    const alturaTotal = document.documentElement.scrollHeight;
+    window.scrollTo({top: alturaTotal, behavior: "smooth" });
+  }
+});
 
 
 
